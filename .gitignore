@@ -1,0 +1,2 @@
+# 忽视根目录下bootstrap_sources下所有的文件
+/bootstrap_sources/*
